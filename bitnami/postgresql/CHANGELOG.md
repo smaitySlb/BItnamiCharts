@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>15.4.1 (2026-08-17)</small>
+
+* [bitnami/postgresql] Add seccompProfile to podSecurityContext and fix backup CronJob pod security context rendering
+
 ## 15.4.0 (2024-05-21)
 
 * [bitnami/postgresql] feat: :sparkles: :lock: Add warning when original images are replaced ([#26264](https://github.com/bitnami/charts/pulls/26264))
