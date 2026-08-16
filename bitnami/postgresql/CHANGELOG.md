@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>15.4.3 (2026-08-17)</small>
+
+* [bitnami/postgresql] Add seccompProfile to podSecurityContext and fix backup CronJob pod security context rendering
+
 ## 15.4.2 (2024-05-28)
 
 * [bitnami/postgresql] Release 15.4.2 ([#26475](https://github.com/bitnami/charts/pull/26475))
